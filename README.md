@@ -1,8 +1,7 @@
 # GourmetGoAPI
 
-In the kitchen, we often face the challenge of deciding what to cook with the ingredients available in our fridge. Sometimes we come across ingredients that we don't know how to use or we would like to try new recipes but don't know where to start. In addition, it can be a bit difficult to remember all the recipes we know or to search for new recipes that suit the ingredients we have on hand.
-
-FoodLens is a cooking app that uses Amazon Rekognition to automatically identify foods in an image taken by the user. With this feature, users can take a picture of available ingredients and quickly receive recipes and cooking suggestions based on those ingredients. In addition, the application integrates the power of OpenAI to offer personalized and creative recommendations.
+In the kitchen, we are often faced with the challenge of deciding what to cook with the ingredients available in our refrigerator. Sometimes we come across ingredients that we don't know how to use or we would like to try new recipes but we don't know where to start. Plus, it can be a little difficult to remember all the recipes we know or look for new recipes that fit the ingredients we have on hand.
+GourmetGo is an innovative and versatile culinary application that takes advantage of web scraping technology and the BeautifulSoup library to facilitate the search for recipes adapted to the ingredients entered by the user. With this tool, users can explore a wide variety of culinary options, even when faced with the challenge of having unknown or unusual ingredients in their pantry.
 
 ## To run the API locally you will need to follow the steps below:
 
@@ -46,7 +45,7 @@ http://127.0.0.1:8000/docs
 
 
 En la cocina, a menudo nos enfrentamos al desafío de decidir qué cocinar con los ingredientes disponibles en nuestra nevera. A veces nos encontramos con ingredientes que no sabemos cómo utilizar o nos gustaría probar nuevas recetas pero no sabemos por dónde empezar. Además, puede ser un poco difícil recordar todas las recetas que conocemos o buscar nuevas recetas que se adapten a los ingredientes que tenemos a la mano.
-
+GourmetGo es una aplicación culinaria innovadora y versátil que aprovecha la tecnología de web scraping y la librería BeautifulSoup para facilitar la búsqueda de recetas adaptadas a los ingredientes ingresados por el usuario. Con esta herramienta, los usuarios pueden explorar una amplia variedad de opciones culinarias, incluso cuando se enfrentan al desafío de tener ingredientes desconocidos o poco comunes en su despensa.
 
 
 ## Para ejecutar la API de manera local deberá seguir los siguientes pasos:
